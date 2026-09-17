@@ -1,0 +1,4 @@
+interface:
+  display_name: "progressive-handbook"
+  short_description: "把主题或知识库做成渐进披露式交互知识手册（点读手册，单文件 HTML）"
+  default_prompt: "使用 $progressive-handbook 把我的知识库制作成带术语二级窗口和概念图谱的交互知识手册。"
